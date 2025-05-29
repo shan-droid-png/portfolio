@@ -8,7 +8,7 @@ import Contact from './pages/Contact';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/portfolio">
       <div className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-300">
         <Navbar />
         <Routes>
