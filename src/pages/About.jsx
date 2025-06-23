@@ -25,7 +25,7 @@ const About = () => {
                 scalable web applications and solving complex problems.
               </p>
               <p className="text-gray-600 dark:text-gray-300">
-                When I'm not coding, you can find me [Your Interests/Hobbies].
+                When I'm not coding, you can find me working on myself.
                 I believe in continuous learning and staying up-to-date with the
                 latest technologies.
               </p>
@@ -43,7 +43,7 @@ const About = () => {
                   </div>
                   <div>
                     <h3 className="font-medium text-primary">Email</h3>
-                    <p className="text-gray-600 dark:text-gray-300">your.email@example.com</p>
+                    <p className="text-gray-600 dark:text-gray-300">dshanto940@gmail.com</p>
                   </div>
                   <div>
                     <h3 className="font-medium text-primary">Education</h3>

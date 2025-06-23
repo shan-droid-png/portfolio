@@ -19,7 +19,7 @@ const Home = () => {
             animate={{ scale: 1 }}
             transition={{ duration: 0.6, delay: 0.2 }}
           >
-            Your Name
+            Shanta Das
           </motion.h1>
           
           <motion.h2 
@@ -77,8 +77,8 @@ const Home = () => {
         >
           <div className="flex justify-center space-x-6">
             {[
-              { name: 'GitHub', url: 'https://github.com' },
-              { name: 'LinkedIn', url: 'https://linkedin.com' },
+              { name: 'GitHub', url: 'https://github.com/shan-droid-png' },
+              { name: 'LinkedIn', url: 'https://www.linkedin.com/in/shanta-das-970917323/' },
               { name: 'Twitter', url: 'https://twitter.com' }
             ].map((social) => (
               <motion.a

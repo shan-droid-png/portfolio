@@ -150,7 +150,7 @@ const Contact = () => {
                 <div>
                   <h3 className="text-lg font-medium text-gray-800 dark:text-gray-200">Location</h3>
                   <p className="text-gray-600 dark:text-gray-300">
-                    City, Country
+                    Kolkata, West Bengal, India
                   </p>
                 </div>
               </div>
