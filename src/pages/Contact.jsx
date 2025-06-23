@@ -125,8 +125,8 @@ const Contact = () => {
                 <EnvelopeIcon className="w-6 h-6 text-primary dark:text-primary-light" />
                 <div>
                   <h3 className="text-lg font-medium text-gray-800 dark:text-gray-200">Email</h3>
-                  <a href="mailto:your.email@example.com" className="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary-light">
-                    your.email@example.com
+                  <a href="mailto:dshanto940@gmail.com" className="text-gray-600 dark:text-gray-300 hover:text-primary dark:hover:text-primary-light">
+                    dshanto940@gmail.com
                   </a>
                 </div>
               </div>

@@ -35,7 +35,7 @@ const About = () => {
                 <div className="grid grid-cols-2 gap-4">
                   <div>
                     <h3 className="font-medium text-primary">Location</h3>
-                    <p className="text-gray-600 dark:text-gray-300">Your City, Country</p>
+                    <p className="text-gray-600 dark:text-gray-300">Kolkata, West Bengal, India</p>
                   </div>
                   <div>
                     <h3 className="font-medium text-primary">Experience</h3>
@@ -47,7 +47,7 @@ const About = () => {
                   </div>
                   <div>
                     <h3 className="font-medium text-primary">Education</h3>
-                    <p className="text-gray-600 dark:text-gray-300">Your Degree</p>
+                    <p className="text-gray-600 dark:text-gray-300">BTech CSE</p>
                   </div>
                 </div>
               </div>
