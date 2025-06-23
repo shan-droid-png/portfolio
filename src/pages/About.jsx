@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-
+import dp from '../assets/dp.jpg';
 const techStack = [
   { name: 'Frontend', skills: ['React', 'JavaScript', 'Tailwind CSS', 'HTML/CSS'] },
   { name: 'Backend', skills: ['Node.js', 'Express', 'MongoDB', 'SQL'] },
@@ -61,7 +61,7 @@ const About = () => {
                 className="rounded-2xl overflow-hidden shadow-xl"
               >
                 <img
-                  src="/your-photo.jpg"
+                  src={dp}
                   alt="Profile"
                   className="w-full h-auto"
                 />
